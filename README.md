@@ -13,18 +13,23 @@ Le projet comprend deux vues principales :
 - **Branchement** — suivi des branchements, de leur statut et des délais de traitement.
 
 ### Technologies
-- Power BI
-- Data Analysis
-- Data Visualization
+**Power BI** · **Data Analysis** · **Data Visualization**
+
+### Aperçus
+
+#### Mouvement des Compteurs
+![Dashboard Mouvement des Compteurs](screenshots/Capture32.PNG)
+
+#### Branchement
+![Dashboard Branchement](screenshots/Capture33.PNG)
+
+### Projet Power BI
+Le fichier Power BI complet est disponible dans le dépôt :
+
+**[Télécharger le fichier PBIX](Dashboards/DTC_MVT%20-%20Copie.pbix)**
 
 ### Statut
 **Terminé**
-
-### Aperçus
-Les captures du dashboard seront ajoutées dans le dossier `screenshots/`.
-
-### Fichier Power BI
-Le fichier `.pbix` sera ajouté après vérification de sa taille et des données qu’il contient avant publication publique.
 
 ---
 
@@ -39,15 +44,20 @@ The project includes two main views:
 - **Connections** — monitoring connection operations, their statuses and processing times.
 
 ### Technologies
-- Power BI
-- Data Analysis
-- Data Visualization
+**Power BI** · **Data Analysis** · **Data Visualization**
+
+### Previews
+
+#### Meter Movements
+![Meter Movements Dashboard](screenshots/Capture32.PNG)
+
+#### Connections
+![Connections Dashboard](screenshots/Capture33.PNG)
+
+### Power BI Project
+The complete Power BI file is available in this repository:
+
+**[Download the PBIX file](Dashboards/DTC_MVT%20-%20Copie.pbix)**
 
 ### Status
 **Completed**
-
-### Previews
-Dashboard screenshots will be added to the `screenshots/` directory.
-
-### Power BI file
-The `.pbix` file will be added after checking its size and the data it contains before public release.
